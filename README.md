@@ -1,10 +1,9 @@
-# Hello! I'm Luiz Henrique
 
-I'm a 21-year-old Computer Science undergraduate
+**I'm Luiz Henrique, a 21-year-old Brazilian tech student** 
 
 ## About Me
 
-- 🎓 **Computer Science Major** – Assemblying a viriety of knowledge across various areas in technology.
+- 🎓 **Computer Science Major** – Assembling knowledge across a variety of tech domains. `[Ongoing]`
 - 🧪 **Scientific Initiation Scholarship (PIBIC)** – Currently researching the use of **Large Language Models (LLMs)** in **medical patient triage**.
 
 ## Skills & Interests
