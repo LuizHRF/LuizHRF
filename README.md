@@ -1,5 +1,5 @@
 
-**I'm Luiz Henrique** 
+**Hi, I'm Luiz Henrique** 
 
 ## About Me
 
