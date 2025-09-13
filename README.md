@@ -1,5 +1,5 @@
 
-**I'm Luiz Henrique, a 21-year-old Brazilian tech student** 
+**I'm Luiz Henrique** 
 
 ## About Me
 
